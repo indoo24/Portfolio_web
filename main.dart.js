@@ -18689,7 +18689,7 @@ r.toString
 A.ea(r)
 q=a.h(0,"swipeEdge")
 q.toString
-return new A.K7(s,r,B.Jk[A.eq(q)])},
+return new A.K7(s,r,B.Jh[A.eq(q)])},
 Ak:function Ak(a,b){this.a=a
 this.b=b},
 K7:function K7(a,b,c){this.a=a
@@ -20750,7 +20750,7 @@ if(a.as!==q)return q?-1:1
 return 0},
 aDM(a,b){var s=A.W(b).i("a2<1,d9>")
 s=A.a_(new A.a2(b,new A.a_6(),s),s.i("am.E"))
-return A.aDa(!0,s,a,B.JP,!0,B.Fe,null)},
+return A.aDa(!0,s,a,B.JM,!0,B.Fe,null)},
 aDK(a){a.bo()
 a.b6(A.ayn())},
 apx(a){var s=a.a,r=s instanceof A.nL?s:null
@@ -21376,7 +21376,7 @@ _.as=!0
 _.at=!1
 _.$ti=d},
 a2r(a,b){var s
-if(a.j(0,b))return new A.GB(B.JN)
+if(a.j(0,b))return new A.GB(B.JK)
 s=A.c([],t.fJ)
 A.bX()
 a.md(new A.a2s(b,A.aB(t.u),s))
@@ -27833,7 +27833,7 @@ gA(a){var s=this,r=s.b,q=r!=null?A.bk(r):null
 return A.I(s.a,q,s.c,s.d,s.e,s.x,s.f,s.r,s.w,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)}}
 A.Xy.prototype={
 Hv(a,b,c,d){var s,r,q,p
-if(a<0||b<0)return B.JK
+if(a<0||b<0)return B.JH
 s=this.a
 s===$&&A.a()
 s=s.a
@@ -28091,7 +28091,7 @@ break
 default:s=null}return s}}
 A.a_Y.prototype={
 gp5(){var s=this.b,r=s==null?null:s.canvasKitVariant
-return A.aDV(B.Jt,r==null?"auto":r)},
+return A.aDV(B.Jq,r==null?"auto":r)},
 gQK(){var s=this.b
 s=s==null?null:s.canvasKitForceCpuOnly
 return s==null?!1:s},
@@ -31766,7 +31766,7 @@ if(m.f!==B.ns){m.f=B.ns
 m.MG()}}return m.d.a.Wh(a)},
 MG(){var s,r
 for(s=this.w,r=0;r<s.length;++r)s[r].$1(this.f)},
-We(a){if(B.b.q(B.JA,a))return this.f===B.fS
+We(a){if(B.b.q(B.Jx,a))return this.f===B.fS
 return!1}}
 A.a_H.prototype={
 $0(){return new A.iL(Date.now(),0,!1)},
@@ -37395,7 +37395,7 @@ if(o>0)return s
 return null}}
 A.aeV.prototype={
 D(a,b){this.Ki(b,0,b.length,!1)},
-aU(){this.Ki(B.JE,0,0,!0)}}
+aU(){this.Ki(B.JB,0,0,!0)}}
 A.amC.prototype={
 Ki(a,b,c,d){var s=this.b.agr(a,b,c,d)
 if(s!=null)this.a.fs(s,0,s.length,d)}}
@@ -39969,7 +39969,7 @@ h=r[4]
 g=r[5]
 f=r[6]
 e=r[7]
-for(d=l,q=0;q<64;++q,e=f,f=g,g=h,h=b,i=j,j=k,k=d,d=a){c=(e+(((h>>>6|h<<26)^(h>>>11|h<<21)^(h>>>25|h<<7))>>>0)>>>0)+(((h&g^~h&f)>>>0)+(B.J0[q]+s[q]>>>0)>>>0)>>>0
+for(d=l,q=0;q<64;++q,e=f,f=g,g=h,h=b,i=j,j=k,k=d,d=a){c=(e+(((h>>>6|h<<26)^(h>>>11|h<<21)^(h>>>25|h<<7))>>>0)>>>0)+(((h&g^~h&f)>>>0)+(B.IZ[q]+s[q]>>>0)>>>0)>>>0
 b=i+c>>>0
 a=c+((((d>>>2|d<<30)^(d>>>13|d<<19)^(d>>>22|d<<10))>>>0)+((d&k^d&j^k&j)>>>0)>>>0)>>>0}r.$flags&2&&A.ag(r)
 r[0]=d+l>>>0
@@ -40956,7 +40956,7 @@ r=A.ry(B.N1,B.i,r==null?1:r)
 r.toString
 q=p.a8(q.gt())
 if(q==null)q=1
-return A.aw3(A.avb(null,B.q,new A.rn(q,B.Ji,new A.cM(B.A8,this.e)),s,1,B.R6),r)}}
+return A.aw3(A.avb(null,B.q,new A.rn(q,B.Jg,new A.cM(B.A8,this.e)),s,1,B.R6),r)}}
 A.F_.prototype={
 l(){var s=this,r=s.bz$
 if(r!=null)r.I(s.gi6())
@@ -44193,7 +44193,7 @@ r=n.f
 n=n.cx
 q=p.ga7D()
 p.a.toString
-return new A.Bc(o,o,o,new A.aiH(),o,o,o,o,o,m,r,o,o,o,B.JQ,p.ga7K(),n,o,B.Ua,s,o,q,o,o,B.nL,!1,!1,o,o,o,new A.nY(p,t.bT))},
+return new A.Bc(o,o,o,new A.aiH(),o,o,o,o,o,m,r,o,o,o,B.JN,p.ga7K(),n,o,B.Ua,s,o,q,o,o,B.nL,!1,!1,o,o,o,new A.nY(p,t.bT))},
 L(a){var s,r=null,q=A.nN(!1,!1,this.a0M(a),r,r,r,r,!0,r,r,r,new A.aiI(),r,r)
 this.a.toString
 s=this.d
@@ -44501,7 +44501,7 @@ A.tV.prototype={
 G(){return"_CornerId."+this.b}}
 A.kR.prototype={}
 A.ro.prototype={
-kd(){var s,r,q,p=this,o=A.aL3(B.Jw,new A.a61(p,p.b.gaT().T(0,p.a.gaT()))),n=p.a
+kd(){var s,r,q,p=this,o=A.aL3(B.Jt,new A.a61(p,p.b.gaT().T(0,p.a.gaT()))),n=p.a
 n.toString
 s=o.a
 r=p.oo(n,s)
@@ -48091,7 +48091,7 @@ r.e=s.a.a
 r.f=s.d},
 $S:0}
 A.Jm.prototype={
-L(a){return A.avb(new A.ns(B.Eb,null,null),B.V,new A.rn(1,B.K_,new A.cM(B.A7,B.r)),this.c.U(0,new A.i(0,40.95)),1.25,B.R8)}}
+L(a){return A.avb(new A.ns(B.Eb,null,null),B.V,new A.rn(1,B.JX,new A.cM(B.A7,B.r)),this.c.U(0,new A.i(0,40.95)),1.25,B.R8)}}
 A.oo.prototype={
 G(){return"MaterialType."+this.b}}
 A.y8.prototype={
@@ -48453,7 +48453,7 @@ giQ(){return A.aNe()},
 QF(a,b,c,d,e,f){return A.aCP(a,b,c,d,e,f)}}
 A.JS.prototype={
 a0g(a){var s=t.Tr
-s=A.a_(new A.a2(B.Jv,new A.a7i(a),s),s.i("am.E"))
+s=A.a_(new A.a2(B.Js,new A.a7i(a),s),s.i("am.E"))
 return s},
 j(a,b){if(b==null)return!1
 if(this===b)return!0
@@ -53567,10 +53567,10 @@ di(a){var s,r,q=this.b,p=q.a.c,o=a.T(0,q.ghP())
 p=p.a
 p===$&&A.a()
 s=p.a.getGlyphPositionAtCoordinate(o.a,o.b)
-r=B.Jm[J.a8(s.affinity.value)]
+r=B.Jj[J.a8(s.affinity.value)]
 return new A.a9(J.a8(s.pos),r)},
 rX(){var s,r,q=this.b,p=q.ghP()
-if(!isFinite(p.a)||!isFinite(p.b))return B.JM
+if(!isFinite(p.a)||!isFinite(p.b))return B.JJ
 s=q.f
 if(s==null){s=q.a.c.rX()
 q.f=s}if(p.j(0,B.i))r=s
@@ -61425,7 +61425,7 @@ break
 case 1:return A.L(q,r)}})
 return A.M($async$Cc,r)},
 a3m(a,b){var s,r,q,p
-if(a===b)return B.JJ
+if(a===b)return B.JG
 s=A.c([],t.QP)
 if(a==null)s.push(b)
 else{r=B.b.hK(B.es,a)
@@ -63276,7 +63276,7 @@ A.kr.prototype={}
 A.Kc.prototype={
 kG(a,b){var s,r,q,p,o,n=$.a1.a0$.d.c
 if(n==null||n.e==null)return!1
-for(s=t.F,r=0;r<2;++r){q=B.JB[r]
+for(s=t.F,r=0;r<2;++r){q=B.Jy[r]
 p=n.e
 p.toString
 o=A.ap1(p,q,s)
@@ -65558,7 +65558,7 @@ h.DN()
 r=h.ga42()
 q=q.px
 h.e!==$&&A.bf()
-h.e=new A.Lk(s,new A.c8(B.LI,l),new A.oi(),p,B.c8,0,k,h.ga61(),h.ga63(),r,B.c8,0,j,h.ga5W(),h.ga5Y(),r,i,B.JO,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.H9(),new A.H9())
+h.e=new A.Lk(s,new A.c8(B.LI,l),new A.oi(),p,B.c8,0,k,h.ga61(),h.ga63(),r,B.c8,0,j,h.ga5W(),h.ga5Y(),r,i,B.JL,f,g.CW,g.cx,g.cy,o,g,n,m,g.x,q,new A.H9(),new A.H9())
 return h},
 vL(a,b){var s,r,q,p=this,o=p.a.c,n=o.a.a.length
 if(n<a.b||n<a.a)return
@@ -69072,7 +69072,7 @@ if(b==null)return!1
 if(J.P(b)!==A.p(s))return!1
 return b instanceof A.ew&&b.a===s.a&&b.b==s.b&&b.c==s.c&&b.d===s.d&&A.c1(null,null)},
 gA(a){var s=this
-return A.I(s.a,s.b,s.c,s.d,A.bk(B.JL),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
+return A.I(s.a,s.b,s.c,s.d,A.bk(B.JI),B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a,B.a)},
 k(a){return"IconData(U+"+B.c.ud(B.j.m9(this.a,16).toUpperCase(),5,"0")+")"}}
 A.o6.prototype={
 cr(a){return!this.w.j(0,a.w)},
@@ -70052,7 +70052,7 @@ h=r&&e
 c=r?e:c.CW
 if(c==null)c=B.dx
 r=r&&e
-g=new A.yf(b,s,q,p,m,o,n,a,h===!0,a0,a1,i,d,l,k,j,c,new A.qO(e),B.JH,r===!0)
+g=new A.yf(b,s,q,p,m,o,n,a,h===!0,a0,a1,i,d,l,k,j,c,new A.qO(e),B.JE,r===!0)
 if(!g.j(0,f.e))f.ae(new A.aiZ(f,g))},
 xD(){if(this.d==null)this.oS()},
 EY(){this.oS()},
@@ -70404,7 +70404,7 @@ r.P(0,s.Ux(null,l))
 l.a.toString
 q=r.a
 p=0
-for(;!1;++p){o=B.JF[p]
+for(;!1;++p){o=B.JC[p]
 n=l.c
 n.toString
 m=new A.h5(o.EJ(n),null,!0,B.lj,B.bU,new A.pW(new ($.VE())(B.bU)),B.bU)
@@ -70761,7 +70761,7 @@ L(a){var s,r,q=this,p=null,o=q.ga5D(),n=A.lo(a),m=q.bf$,l=q.d
 l===$&&A.a()
 s=q.a.ay
 if(l.gJ()==null){r=q.gJr()
-r=J.ra(r.slice(0),A.W(r).c)}else r=B.JG
+r=J.ra(r.slice(0),A.W(r).c)}else r=B.JD
 return new A.o1(p,new A.dO(new A.a6Y(q,a),A.y1(B.bD,new A.FU(!1,A.apC(A.nN(!0,p,A.B5(m,new A.rz(r,s,l)),p,p,p,q.y,!1,p,p,p,p,p,!0),n),p),o,q.ga8a(),p,p,o),p,t.w3),p)}}
 A.a6X.prototype={
 $1(a){var s=this.a.c
@@ -75609,7 +75609,7 @@ r.wH()
 return s.aP()},
 l(){var s,r,q,p,o=this
 for(s=o.b,r=s.length,q=o.gCf(),p=0;p<s.length;s.length===r||(0,A.z)(s),++p)s[p].I(q)
-o.b=B.JI
+o.b=B.JF
 o.y=!1
 o.cX()},
 dF(a,b){return a.lI(b)},
@@ -76263,7 +76263,7 @@ g.p2=A.t(t.D2,q)
 p=g.p1
 s=s.c
 g.p1=A.t(s,q)
-for(o=0;o<11;++o){n=B.J6[o]
+for(o=0;o<11;++o){n=B.J4[o]
 m=f.aek(n)
 l=m==null?null:m.a
 k=p.h(0,n)
@@ -84046,7 +84046,7 @@ B.Bv=new A.adD()
 B.X=new A.ME()
 B.cC=new A.adI()
 B.dM=new A.MH(0,0,0,0)
-B.JH=s([],A.an("x<YW>"))
+B.JE=s([],A.an("x<YW>"))
 B.a_g=new A.adO()
 B.bf={}
 B.tN=new A.bP(B.bf,[],t.li)
@@ -84218,13 +84218,13 @@ B.WX=new A.cC("Hi, I\u2019m Youssef Kandeel, a passionate Flutter developer with
 B.aZ=new A.dt(null,20,null,null)
 B.z3=new A.k(!0,B.I,null,null,null,null,18,null,null,null,null,null,1.6,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Xb=new A.cC("I specialize in:\nClean Architecture & State Management (Bloc, Cubit, Provider) for scalable and maintainable apps.\nUI/UX design & animations, delivering modern, responsive, and user-friendly interfaces.\nAPI & Firebase integration, including real-time databases, authentication, notifications, and cloud storage.\nHealth & Fitness app development, with integration to Google Fit and third-party services.\nWhat sets me apart is my ability to combine clean, efficient code with engaging user experiences, ensuring every app I build is not only functional but also delightful to use.\nI\u2019m always excited to bring new ideas to life, help businesses grow through mobile solutions, and deliver",null,B.z3,null,null,null,null,null,null)
-B.JC=s([B.WX,B.aZ,B.Xb],t.p)
-B.EB=new A.jO(B.ak,B.M,B.T,B.aN,null,B.b7,null,0,B.JC,null)
+B.Jz=s([B.WX,B.aZ,B.Xb],t.p)
+B.EB=new A.jO(B.ak,B.M,B.T,B.aN,null,B.b7,null,0,B.Jz,null)
 B.Gh=new A.nH(1,B.el,B.EB,null)
 B.IM=s([B.BP,B.yE,B.Gh],t.p)
 B.Pg=new A.p2(B.aq,B.cO,B.T,B.aN,null,B.b7,null,0,B.IM,null)
-B.J3=s([B.X3,B.dK,B.Pg],t.p)
-B.EC=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.J3,null)
+B.J1=s([B.X3,B.dK,B.Pg],t.p)
+B.EC=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.J1,null)
 B.D3=new A.j(1,1,1,0.5529411764705883,B.e)
 B.mm=new A.j(1,1,1,0,B.e)
 B.Dw=new A.j(1,1,0.9176470588235294,0,B.e)
@@ -84274,14 +84274,14 @@ B.El=new A.j(1,0.17254901960784313,0.7725490196078432,0.7254901960784313,B.e)
 B.Rg=new A.e5(B.nt,"hive",B.El,null)
 B.GY=new A.hV(62788,"FontAwesomeSolid","font_awesome_flutter",!1)
 B.Ro=new A.e5(B.GY,"flask",B.m9,null)
-B.J2=s([B.Rs,B.Rt,B.Rj,B.Rl,B.Rp,B.Rm,B.Rq,B.Rh,B.Rr,B.Rk,B.Rn,B.Ri,B.Rg,B.Ro],t.p)
-B.YR=new A.Bf(B.l7,30,30,B.J2,null)
-B.JR=s([B.Xe,B.aZ,B.X6,B.kH,B.YR],t.p)
-B.ED=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.JR,null)
+B.J0=s([B.Rs,B.Rt,B.Rj,B.Rl,B.Rp,B.Rm,B.Rq,B.Rh,B.Rr,B.Rk,B.Rn,B.Ri,B.Rg,B.Ro],t.p)
+B.YR=new A.Bf(B.l7,30,30,B.J0,null)
+B.JO=s([B.Xe,B.aZ,B.X6,B.kH,B.YR],t.p)
+B.ED=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.JO,null)
 B.mE=new A.H7(null)
 B.mD=new A.wh(null)
-B.K5=s([B.mE,B.dK,B.mD],t.p)
-B.EE=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.K5,null)
+B.K3=s([B.mE,B.dK,B.mD],t.p)
+B.EE=new A.jO(B.ak,B.M,B.T,B.Q,null,B.b7,null,0,B.K3,null)
 B.ft=new A.hd(0,"cut")
 B.fu=new A.hd(1,"copy")
 B.fv=new A.hd(2,"paste")
@@ -84790,14 +84790,14 @@ B.HZ=new A.y0(null,null,null,null,null,null,null,null,null,null,null,null,null,n
 B.nI=s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none","webSearch","twitter"],t.s)
 B.I2=s([239,191,189],t.t)
 B.Iq=s([4,9,14,19],t.t)
-B.K6=s([137,80,78,71,13,10,26,10],t.Z)
+B.K4=s([137,80,78,71,13,10,26,10],t.Z)
 B.Hi=new A.lu(0,"png")
 B.Hq=new A.iW(B.Hi,!1,0,"png")
-B.Hg=new A.k7(B.K6,B.Hq,0,"png")
-B.K7=s([71,73,70,56,55,97],t.Z)
-B.Hf=new A.k7(B.K7,B.fU,1,"gif87a")
-B.Ju=s([71,73,70,56,57,97],t.Z)
-B.He=new A.k7(B.Ju,B.fU,2,"gif89a")
+B.Hg=new A.k7(B.K4,B.Hq,0,"png")
+B.K5=s([71,73,70,56,55,97],t.Z)
+B.Hf=new A.k7(B.K5,B.fU,1,"gif87a")
+B.Jr=s([71,73,70,56,57,97],t.Z)
+B.He=new A.k7(B.Jr,B.fU,2,"gif89a")
 B.I3=s([255,216,255],t.Z)
 B.Hj=new A.lu(2,"jpeg")
 B.Hu=new A.iW(B.Hj,!1,3,"jpeg")
@@ -84833,20 +84833,20 @@ B.hL=new A.kD(3,"justify")
 B.aS=new A.kD(4,"start")
 B.kN=new A.kD(5,"end")
 B.IP=s([B.eW,B.kM,B.bx,B.hL,B.aS,B.kN],A.an("x<kD>"))
-B.J4=s([2,1.13276676],t.n)
+B.J2=s([2,1.13276676],t.n)
 B.I5=s([2.18349805,1.20311921],t.n)
-B.JU=s([2.33888662,1.28698796],t.n)
-B.JY=s([2.48660575,1.36351941],t.n)
+B.JS=s([2.33888662,1.28698796],t.n)
+B.JV=s([2.48660575,1.36351941],t.n)
 B.IT=s([2.62226596,1.44717976],t.n)
-B.IY=s([2.7514899,1.53385819],t.n)
-B.Js=s([3.36298265,1.98288283],t.n)
-B.J8=s([4.08649929,2.23811846],t.n)
-B.Jl=s([4.85481134,2.47563463],t.n)
-B.IW=s([5.62945551,2.72948597],t.n)
-B.J5=s([6.43023796,2.98020421],t.n)
-B.nK=s([B.J4,B.I5,B.JU,B.JY,B.IT,B.IY,B.Js,B.J8,B.Jl,B.IW,B.J5],t.zg)
+B.IX=s([2.7514899,1.53385819],t.n)
+B.Jp=s([3.36298265,1.98288283],t.n)
+B.J7=s([4.08649929,2.23811846],t.n)
+B.Ji=s([4.85481134,2.47563463],t.n)
+B.IV=s([5.62945551,2.72948597],t.n)
+B.J3=s([6.43023796,2.98020421],t.n)
+B.nK=s([B.J2,B.I5,B.JS,B.JV,B.IT,B.IX,B.Jp,B.J7,B.Ji,B.IV,B.J3],t.zg)
 B.IS=s([B.ii,B.ij],A.an("x<vC>"))
-B.J0=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
+B.IZ=s([1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298],t.t)
 B.ao=new A.e8(0,"icon")
 B.aG=new A.e8(1,"input")
 B.a3=new A.e8(2,"label")
@@ -84858,7 +84858,7 @@ B.ax=new A.e8(7,"suffixIcon")
 B.by=new A.e8(8,"helperError")
 B.bN=new A.e8(9,"counter")
 B.ce=new A.e8(10,"container")
-B.J6=s([B.ao,B.aG,B.a3,B.aK,B.aL,B.aM,B.a2,B.ax,B.by,B.bN,B.ce],A.an("x<e8>"))
+B.J4=s([B.ao,B.aG,B.a3,B.aK,B.aL,B.aM,B.a2,B.ax,B.by,B.bN,B.ce],A.an("x<e8>"))
 B.Kg=new A.lK("en","US")
 B.nL=s([B.Kg],t.ss)
 B.Z2=new A.kS(0,0)
@@ -84868,26 +84868,26 @@ B.Z6=new A.kS(6,0.11)
 B.Z4=new A.kS(8,0.12)
 B.Z3=new A.kS(12,0.14)
 B.nM=s([B.Z2,B.Z7,B.Z5,B.Z6,B.Z4,B.Z3],A.an("x<kS>"))
-B.Jh=s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0],t.n)
+B.Jf=s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0],t.n)
 B.A6=new A.Gn(2,"outer")
 B.mg=new A.j(0.09803921568627451,0,0,0,B.e)
 B.i=new A.i(0,0)
 B.Ar=new A.d7(0.2,B.A6,B.mg,B.i,11)
-B.Ji=s([B.Ar],t.sq)
+B.Jg=s([B.Ar],t.sq)
 B.RW=new A.Ak(0,"left")
 B.RX=new A.Ak(1,"right")
-B.Jk=s([B.RW,B.RX],A.an("x<Ak>"))
+B.Jh=s([B.RW,B.RX],A.an("x<Ak>"))
 B.ac=new A.Aw(0,"upstream")
-B.Jm=s([B.ac,B.k],A.an("x<Aw>"))
+B.Jj=s([B.ac,B.k],A.an("x<Aw>"))
 B.aT=new A.AA(0,"rtl")
 B.aj=new A.AA(1,"ltr")
 B.jF=s([B.aT,B.aj],A.an("x<AA>"))
 B.BI=new A.nk(0,"auto")
 B.BJ=new A.nk(1,"full")
 B.BK=new A.nk(2,"chromium")
-B.Jt=s([B.BI,B.BJ,B.BK,B.d7],A.an("x<nk>"))
+B.Jq=s([B.BI,B.BJ,B.BK,B.d7],A.an("x<nk>"))
 B.bj=new A.eW(1,"fuchsia")
-B.Jv=s([B.aa,B.bj,B.D,B.b5,B.aE,B.b6],A.an("x<eW>"))
+B.Js=s([B.aa,B.bj,B.D,B.b5,B.aE,B.b6],A.an("x<eW>"))
 B.zo=new A.tV(0,"topLeft")
 B.zr=new A.tV(3,"bottomRight")
 B.YY=new A.kR(B.zo,B.zr)
@@ -84896,7 +84896,7 @@ B.zp=new A.tV(1,"topRight")
 B.zq=new A.tV(2,"bottomLeft")
 B.YZ=new A.kR(B.zp,B.zq)
 B.Z_=new A.kR(B.zq,B.zp)
-B.Jw=s([B.YY,B.Z0,B.YZ,B.Z_],A.an("x<kR>"))
+B.Jt=s([B.YY,B.Z0,B.YZ,B.Z_],A.an("x<kR>"))
 B.P_=new A.ad(0.01339448,0.05994973)
 B.OZ=new A.ad(0.13664115,0.13592082)
 B.OM=new A.ad(0.24545546,0.14099516)
@@ -84912,34 +84912,34 @@ B.OJ=new A.ad(0.66416338,0.0734653)
 B.OG=new A.ad(0.68675338,0.06974996)
 B.OW=new A.ad(0.70678034,0.06529512)
 B.nN=s([B.P_,B.OZ,B.OM,B.OP,B.OY,B.OF,B.OK,B.ON,B.OI,B.OV,B.P2,B.OJ,B.OG,B.OW],A.an("x<+(O,O)>"))
-B.JA=s(["click","scroll"],t.s)
+B.Jx=s(["click","scroll"],t.s)
 B.Az=new A.q9()
 B.eL=new A.Lc(1,"page")
 B.hr=new A.dR(B.ap,B.eL)
-B.JB=s([B.Az,B.hr],A.an("x<aK>"))
-B.JJ=s([],t.QP)
+B.Jy=s([B.Az,B.hr],A.an("x<aK>"))
+B.JG=s([],t.QP)
 B.nP=s([],A.an("x<aNQ>"))
-B.JP=s([],t.E)
-B.JN=s([],t.fJ)
-B.JM=s([],t.ER)
+B.JM=s([],t.E)
+B.JK=s([],t.fJ)
+B.JJ=s([],t.ER)
 B.a_o=s([],t.ss)
-B.JQ=s([],t.tc)
+B.JN=s([],t.tc)
 B.h_=s([],t.jl)
-B.JG=s([],t.wi)
-B.JF=s([],A.an("x<auP<@>>"))
+B.JD=s([],t.wi)
+B.JC=s([],A.an("x<auP<@>>"))
 B.jH=s([],t.AO)
-B.JI=s([],t.D1)
+B.JF=s([],t.D1)
 B.jG=s([],t.QF)
-B.JK=s([],t.Lx)
-B.JO=s([],t.fm)
+B.JH=s([],t.Lx)
+B.JL=s([],t.fm)
 B.a_p=s([],t.p)
-B.JE=s([],t.t)
+B.JB=s([],t.t)
 B.nO=s([],t.ee)
-B.JL=s([],t.XS)
+B.JI=s([],t.XS)
 B.nQ=s([B.dl,B.fO,B.fP,B.n,B.W,B.em,B.a6,B.fQ,B.en],A.an("x<fH>"))
 B.N_=new A.i(0,2)
 B.Aq=new A.d7(0.75,B.cy,B.mg,B.N_,1.5)
-B.K_=s([B.Aq],t.sq)
+B.JX=s([B.Aq],t.sq)
 B.es=s([B.cx,B.cg,B.f7,B.f8,B.ih],t.QP)
 B.ds=new A.fN(0,"controlModifier")
 B.dt=new A.fN(1,"shiftModifier")
@@ -85487,57 +85487,57 @@ B.Iw=s([54,null,null,8589935158],t.Z)
 B.Ix=s([55,null,null,8589935159],t.Z)
 B.Iy=s([56,null,null,8589935160],t.Z)
 B.IA=s([57,null,null,8589935161],t.Z)
-B.Jn=s([8589934852,8589934852,8589934853,null],t.Z)
+B.Jk=s([8589934852,8589934852,8589934853,null],t.Z)
 B.I8=s([4294967555,null,4294967555,null],t.Z)
 B.I9=s([4294968065,null,null,8589935154],t.Z)
 B.Ia=s([4294968066,null,null,8589935156],t.Z)
 B.Ib=s([4294968067,null,null,8589935158],t.Z)
 B.Ic=s([4294968068,null,null,8589935160],t.Z)
 B.Ih=s([4294968321,null,null,8589935157],t.Z)
-B.Jo=s([8589934848,8589934848,8589934849,null],t.Z)
+B.Jl=s([8589934848,8589934848,8589934849,null],t.Z)
 B.I7=s([4294967423,null,null,8589935150],t.Z)
 B.Id=s([4294968069,null,null,8589935153],t.Z)
 B.I6=s([4294967309,null,null,8589935117],t.Z)
 B.Ie=s([4294968070,null,null,8589935159],t.Z)
 B.Ii=s([4294968327,null,null,8589935152],t.Z)
-B.Jp=s([8589934854,8589934854,8589934855,null],t.Z)
+B.Jm=s([8589934854,8589934854,8589934855,null],t.Z)
 B.If=s([4294968071,null,null,8589935155],t.Z)
 B.Ig=s([4294968072,null,null,8589935161],t.Z)
-B.Jq=s([8589934850,8589934850,8589934851,null],t.Z)
-B.tR=new A.bI(["*",B.Ij,"+",B.Ik,"-",B.Il,".",B.Im,"/",B.In,"0",B.Io,"1",B.Ip,"2",B.Ir,"3",B.It,"4",B.Iu,"5",B.Iv,"6",B.Iw,"7",B.Ix,"8",B.Iy,"9",B.IA,"Alt",B.Jn,"AltGraph",B.I8,"ArrowDown",B.I9,"ArrowLeft",B.Ia,"ArrowRight",B.Ib,"ArrowUp",B.Ic,"Clear",B.Ih,"Control",B.Jo,"Delete",B.I7,"End",B.Id,"Enter",B.I6,"Home",B.Ie,"Insert",B.Ii,"Meta",B.Jp,"PageDown",B.If,"PageUp",B.Ig,"Shift",B.Jq],A.an("bI<r,T<o?>>"))
+B.Jn=s([8589934850,8589934850,8589934851,null],t.Z)
+B.tR=new A.bI(["*",B.Ij,"+",B.Ik,"-",B.Il,".",B.Im,"/",B.In,"0",B.Io,"1",B.Ip,"2",B.Ir,"3",B.It,"4",B.Iu,"5",B.Iv,"6",B.Iw,"7",B.Ix,"8",B.Iy,"9",B.IA,"Alt",B.Jk,"AltGraph",B.I8,"ArrowDown",B.I9,"ArrowLeft",B.Ia,"ArrowRight",B.Ib,"ArrowUp",B.Ic,"Clear",B.Ih,"Control",B.Jl,"Delete",B.I7,"End",B.Id,"Enter",B.I6,"Home",B.Ie,"Insert",B.Ii,"Meta",B.Jm,"PageDown",B.If,"PageUp",B.Ig,"Shift",B.Jn],A.an("bI<r,T<o?>>"))
 B.Iz=s([B.nY,null,null,B.tE],t.L)
-B.JS=s([B.tq,null,null,B.tF],t.L)
-B.J1=s([B.tr,null,null,B.tG],t.L)
-B.Jr=s([B.ts,null,null,B.cJ],t.L)
+B.JQ=s([B.tq,null,null,B.tF],t.L)
+B.J_=s([B.tr,null,null,B.tG],t.L)
+B.Jo=s([B.ts,null,null,B.cJ],t.L)
 B.I_=s([B.tt,null,null,B.tH],t.L)
-B.K8=s([B.tu,null,null,B.jT],t.L)
-B.K4=s([B.tv,null,null,B.eB],t.L)
+B.K7=s([B.tu,null,null,B.jT],t.L)
+B.K1=s([B.tv,null,null,B.eB],t.L)
 B.IG=s([B.tw,null,null,B.cK],t.L)
 B.Kc=s([B.tx,null,null,B.eC],t.L)
-B.K2=s([B.ty,null,null,B.cL],t.L)
+B.K_=s([B.ty,null,null,B.cL],t.L)
 B.ID=s([B.tz,null,null,B.jU],t.L)
 B.I4=s([B.tA,null,null,B.cM],t.L)
 B.IQ=s([B.tB,null,null,B.eD],t.L)
-B.JT=s([B.tC,null,null,B.cN],t.L)
-B.JV=s([B.tD,null,null,B.eE],t.L)
+B.JR=s([B.tC,null,null,B.cN],t.L)
+B.JT=s([B.tD,null,null,B.eE],t.L)
 B.II=s([B.ez,B.ez,B.h6,null],t.L)
-B.K9=s([B.h2,null,B.h2,null],t.L)
-B.Ja=s([B.bF,null,null,B.cK],t.L)
-B.Jb=s([B.bt,null,null,B.cL],t.L)
-B.Jc=s([B.bu,null,null,B.cM],t.L)
-B.Ka=s([B.bG,null,null,B.cN],t.L)
-B.K0=s([B.jM,null,null,B.jU],t.L)
+B.K8=s([B.h2,null,B.h2,null],t.L)
+B.J8=s([B.bF,null,null,B.cK],t.L)
+B.J9=s([B.bt,null,null,B.cL],t.L)
+B.Ja=s([B.bu,null,null,B.cM],t.L)
+B.K9=s([B.bG,null,null,B.cN],t.L)
+B.JY=s([B.jM,null,null,B.jU],t.L)
 B.IJ=s([B.ey,B.ey,B.h5,null],t.L)
-B.Jy=s([B.aC,null,null,B.cJ],t.L)
-B.Jd=s([B.cG,null,null,B.eB],t.L)
+B.Jv=s([B.aC,null,null,B.cJ],t.L)
+B.Jb=s([B.cG,null,null,B.eB],t.L)
 B.IC=s([B.h1,null,null,B.jS],t.L)
-B.Je=s([B.cH,null,null,B.eD],t.L)
-B.K1=s([B.jN,null,null,B.jT],t.L)
+B.Jc=s([B.cH,null,null,B.eD],t.L)
+B.JZ=s([B.jN,null,null,B.jT],t.L)
 B.IK=s([B.eA,B.eA,B.h7,null],t.L)
-B.Jf=s([B.ew,null,null,B.eC],t.L)
-B.JD=s([B.ex,null,null,B.eE],t.L)
+B.Jd=s([B.ew,null,null,B.eC],t.L)
+B.JA=s([B.ex,null,null,B.eE],t.L)
 B.IL=s([B.cn,B.cn,B.cI,null],t.L)
-B.M1=new A.bI(["*",B.Iz,"+",B.JS,"-",B.J1,".",B.Jr,"/",B.I_,"0",B.K8,"1",B.K4,"2",B.IG,"3",B.Kc,"4",B.K2,"5",B.ID,"6",B.I4,"7",B.IQ,"8",B.JT,"9",B.JV,"Alt",B.II,"AltGraph",B.K9,"ArrowDown",B.Ja,"ArrowLeft",B.Jb,"ArrowRight",B.Jc,"ArrowUp",B.Ka,"Clear",B.K0,"Control",B.IJ,"Delete",B.Jy,"End",B.Jd,"Enter",B.IC,"Home",B.Je,"Insert",B.K1,"Meta",B.IK,"PageDown",B.Jf,"PageUp",B.JD,"Shift",B.IL],A.an("bI<r,T<e?>>"))
+B.M1=new A.bI(["*",B.Iz,"+",B.JQ,"-",B.J_,".",B.Jo,"/",B.I_,"0",B.K7,"1",B.K1,"2",B.IG,"3",B.Kc,"4",B.K_,"5",B.ID,"6",B.I4,"7",B.IQ,"8",B.JR,"9",B.JT,"Alt",B.II,"AltGraph",B.K8,"ArrowDown",B.J8,"ArrowLeft",B.J9,"ArrowRight",B.Ja,"ArrowUp",B.K9,"Clear",B.JY,"Control",B.IJ,"Delete",B.Jv,"End",B.Jb,"Enter",B.IC,"Home",B.Jc,"Insert",B.JZ,"Meta",B.IK,"PageDown",B.Jd,"PageUp",B.JA,"Shift",B.IL],A.an("bI<r,T<e?>>"))
 B.M2=new A.bI([B.dl,"Thin",B.fO,"ExtraLight",B.fP,"Light",B.n,"Regular",B.W,"Medium",B.em,"SemiBold",B.a6,"Bold",B.fQ,"ExtraBold",B.en,"Black"],A.an("bI<fH,r>"))
 B.MS={KeyA:0,KeyB:1,KeyC:2,KeyD:3,KeyE:4,KeyF:5,KeyG:6,KeyH:7,KeyI:8,KeyJ:9,KeyK:10,KeyL:11,KeyM:12,KeyN:13,KeyO:14,KeyP:15,KeyQ:16,KeyR:17,KeyS:18,KeyT:19,KeyU:20,KeyV:21,KeyW:22,KeyX:23,KeyY:24,KeyZ:25,Digit1:26,Digit2:27,Digit3:28,Digit4:29,Digit5:30,Digit6:31,Digit7:32,Digit8:33,Digit9:34,Digit0:35,Minus:36,Equal:37,BracketLeft:38,BracketRight:39,Backslash:40,Semicolon:41,Quote:42,Backquote:43,Comma:44,Period:45,Slash:46}
 B.tS=new A.bP(B.MS,["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z","1","2","3","4","5","6","7","8","9","0","-","=","[","]","\\",";","'","`",",",".","/"],t.li)
@@ -85946,14 +85946,8 @@ B.Op=new A.oS(3,"externalApplication")
 B.xG=new A.oS(4,"externalNonBrowserApplication")
 B.Oq=new A.rK(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Or=new A.rL(null)
-B.Kb=s(["Flutter","Firebase","TensorFlow Lite"],t.s)
-B.JW=s(["assets/images/sign_in.png","assets/images/home_screen_light.png","assets/images/edit_task.png","assets/images/settings_arabic_dark.png"],t.s)
-B.Os=new A.fl("\ud83e\udd16","Intelligent To-Do","A smart to-do app that organizes your tasks using AI.","This isn't just a regular to-do list. By integrating a lightweight AI model, the app can automatically categorize tasks, suggest deadlines, and prioritize what's most important based on your habits. It's designed to reduce the mental load of planning.",B.Kb,B.JW,"https://github.com/indoo24/Intelligent_Todo_app",B.cP)
-B.Kd=s(["Flutter","REST API","Google Maps API"],t.s)
-B.Jx=s(["assets/images/baha/baha1.png","assets/images/baha/baha2.png","assets/images/baha/baha3.png","assets/images/baha/baha4.png","assets/images/baha/baha5.png","assets/images/baha/baha6.png","assets/images/baha/baha7.png","assets/images/baha/baha8.png","assets/images/baha/baha9.png","assets/images/baha/baha10.png","assets/images/baha/baha12.png"],t.s)
-B.Ot=new A.fl("\ufe0f\ud83d\uddfb","Al Baha Exploration Application","A location-based exploration app designed to help users discover tourist and service places in the Al Baha region.","Built using Flutter and Firebase, the app provides place discovery, search, filtering, and map integration with a smooth user experience.",B.Kd,B.Jx,"",B.jZ)
-B.JZ=s(["Flutter","REST API","BLoC"],t.s)
-B.Jj=s(["assets/images/splash2.png","assets/images/home.png"],t.s)
+B.JW=s(["Flutter","REST API","BLoC"],t.s)
+B.K2=s(["assets/images/news/news0.png","assets/images/news/news1.png","assets/images/news/news2.png","assets/images/news/news3.png","assets/images/news/news4.png"],t.s)
 B.DA=new A.j(1,0.9098039215686274,0.9176470588235294,0.9647058823529412,B.e)
 B.DB=new A.j(1,0.7725490196078432,0.792156862745098,0.9137254901960784,B.e)
 B.Ef=new A.j(1,0.6235294117647059,0.6588235294117647,0.8549019607843137,B.e)
@@ -85966,33 +85960,24 @@ B.Dl=new A.j(1,0.1568627450980392,0.20784313725490197,0.5764705882352941,B.e)
 B.CZ=new A.j(1,0.10196078431372549,0.13725490196078433,0.49411764705882355,B.e)
 B.Mb=new A.bI([50,B.DA,100,B.DB,200,B.Ef,300,B.Ea,400,B.DO,500,B.DZ,600,B.C3,700,B.Et,800,B.Dl,900,B.CZ],t.r)
 B.Mk=new A.fi(B.Mb,1,0.24705882352941178,0.3176470588235294,0.7098039215686275,B.e)
-B.Ou=new A.fl("\ud83d\udcf0","Daily News","Stay updated with the latest news from various sources.","A clean and fast news aggregator app that fetches the latest headlines from multiple categories and sources using a news API. It features a clean reading interface, search functionality, and the ability to bookmark articles.",B.JZ,B.Jj,"https://github.com/indoo24/news-app",B.Mk)
-B.K3=s(["Flutter","Provider","Stripe API"],t.s)
-B.IR=s(["assets/images/route1.png","assets/images/route2.png","assets/images/route3.png","assets/images/route4.png"],t.s)
-B.Ov=new A.fl("\ud83d\uded2","E-commerce Store UI","A modern, clean, and fully functional e-commerce app UI.","A complete UI/UX for a modern e-commerce application. It includes product browsing, a detailed product page, a shopping cart, a streamlined checkout process, and order history. The design focuses on a clean aesthetic and intuitive user flow to maximize conversion.",B.K3,B.IR,"https://github.com/indoo24/E-commerce-app",B.be)
-B.IX=s(["Flutter","REST API","Clean Architecture","Bloc"],t.s)
-B.JX=s(["assets/images/pos/pos1.png","assets/images/pos/pos2.png","assets/images/pos/pos3.png","assets/images/pos/pos4.png","assets/images/pos/pos5.png","assets/images/pos/pos6.png","assets/images/pos/pos7.png","assets/images/pos/pos8.png"],t.s)
-B.D6=new A.j(1,0.5098039215686274,0.6941176470588235,1,B.e)
-B.CW=new A.j(1,0.26666666666666666,0.5411764705882353,1,B.e)
-B.Cl=new A.j(1,0.1607843137254902,0.4745098039215686,1,B.e)
-B.Ee=new A.j(1,0.1607843137254902,0.3843137254901961,1,B.e)
-B.LR=new A.bI([100,B.D6,200,B.CW,400,B.Cl,700,B.Ee],t.r)
-B.Mh=new A.lO(B.LR,1,0.26666666666666666,0.5411764705882353,1,B.e)
-B.Ow=new A.fl("\ufe0f\ud83d\udcb5","POS Application","A cross-platform Point of Sale (POS) application built with Flutter and Firebase, fully developed in Dart.","The app helps businesses manage sales, products, inventory, and transactions efficiently through a clean and user-friendly interface.",B.IX,B.JX,"https://github.com/indoo24/Saloonsa-POS",B.Mh)
+B.Os=new A.fl("\ud83d\udcf0","Daily News","Stay updated with the latest news from various sources.","A clean and fast news aggregator app that fetches the latest headlines from multiple categories and sources using a news API. It features a clean reading interface, search functionality, and the ability to bookmark articles.",B.JW,B.K2,"https://github.com/indoo24/news-app",B.Mk)
 B.I1=s(["Flutter","Dio","GetX","TMDB API"],t.s)
-B.IV=s(["assets/images/splash.png","assets/images/movie1.png","assets/images/movie2.png","assets/images/movie3.png"],t.s)
+B.IR=s(["assets/images/movie/movies.png","assets/images/movie/movies1.png","assets/images/movie/movies2.png","assets/images/movie/movies3.png","assets/images/movie/movies4.png","assets/images/movie/movies5.png"],t.s)
 B.CH=new A.j(1,1,0.5411764705882353,0.5019607843137255,B.e)
 B.Eq=new A.j(1,1,0.3215686274509804,0.3215686274509804,B.e)
 B.C0=new A.j(1,1,0.09019607843137255,0.26666666666666666,B.e)
 B.Er=new A.j(1,0.8352941176470589,0,0,B.e)
 B.LT=new A.bI([100,B.CH,200,B.Eq,400,B.C0,700,B.Er],t.r)
 B.Mg=new A.lO(B.LT,1,1,0.3215686274509804,0.3215686274509804,B.e)
-B.Ox=new A.fl("\ud83c\udfac","Movies Hub","Discover and track movies and TV shows with a modern UI.","A feature-rich application for movie enthusiasts to explore trending, popular, and upcoming movies. Users can search for specific titles, view details like cast and reviews, and manage their personal watchlist. The app is powered by the TMDB API.",B.I1,B.IV,"https://github.com/indoo24/Movies-app",B.Mg)
-B.IZ=s(["Flutter","Provider","Assets","API"],t.s)
-B.J_=s(["assets/images/home.png","assets/images/splash2.png"],t.s)
-B.Oy=new A.fl("\ud83d\udd4c","Islami App","An all-in-one Islamic application for daily needs.","A comprehensive Islamic application featuring Quran, Hadith, prayer times based on location, a Qibla compass, and a Tasbih counter. The app is designed to be a daily companion for Muslims, with a focus on simplicity and accuracy.",B.IZ,B.J_,"https://github.com/indoo24/islami-app",B.ml)
-B.Jg=s(["Flutter","REST API","Animations"],t.s)
-B.J9=s(["assets/images/weather1.png","assets/images/weather2.png"],t.s)
+B.Ot=new A.fl("\ud83c\udfac","Movies Hub","Discover and track movies and TV shows with a modern UI.","A feature-rich application for movie enthusiasts to explore trending, popular, and upcoming movies. Users can search for specific titles, view details like cast and reviews, and manage their personal watchlist. The app is powered by the TMDB API.",B.I1,B.IR,"https://github.com/indoo24/Movies-app",B.Mg)
+B.K0=s(["Flutter","Provider","Stripe API"],t.s)
+B.JP=s(["assets/images/route/route1.png","assets/images/route/route2.png","assets/images/route/route3.png","assets/images/route/route4.png"],t.s)
+B.Ou=new A.fl("\ud83d\uded2","E-commerce Store UI","A modern, clean, and fully functional e-commerce app UI.","A complete UI/UX for a modern e-commerce application. It includes product browsing, a detailed product page, a shopping cart, a streamlined checkout process, and order history. The design focuses on a clean aesthetic and intuitive user flow to maximize conversion.",B.K0,B.JP,"https://github.com/indoo24/E-commerce-app",B.be)
+B.Kd=s(["Flutter","REST API","Google Maps API"],t.s)
+B.Ju=s(["assets/images/baha/baha1.png","assets/images/baha/baha2.png","assets/images/baha/baha3.png","assets/images/baha/baha4.png","assets/images/baha/baha5.png","assets/images/baha/baha6.png","assets/images/baha/baha7.png","assets/images/baha/baha8.png","assets/images/baha/baha9.png","assets/images/baha/baha10.png","assets/images/baha/baha12.png"],t.s)
+B.Ov=new A.fl("\ufe0f\ud83d\uddfb","Al Baha Exploration Application","A location-based exploration app designed to help users discover tourist and service places in the Al Baha region.","Built using Flutter and Firebase, the app provides place discovery, search, filtering, and map integration with a smooth user experience.",B.Kd,B.Ju,"",B.jZ)
+B.Je=s(["Flutter","REST API","Animations"],t.s)
+B.K6=s(["assets/images/weather/weather.png","assets/images/weather/weather2.png","assets/images/weather/weather3.png","assets/images/weather/weather4.png","assets/images/weather/weather6.png"],t.s)
 B.CO=new A.j(1,1,0.9529411764705882,0.8784313725490196,B.e)
 B.DM=new A.j(1,1,0.8784313725490196,0.6980392156862745,B.e)
 B.EA=new A.j(1,1,0.8,0.5019607843137255,B.e)
@@ -86005,7 +85990,22 @@ B.DU=new A.j(1,0.9372549019607843,0.4235294117647059,0,B.e)
 B.Cp=new A.j(1,0.9019607843137255,0.3176470588235294,0,B.e)
 B.M4=new A.bI([50,B.CO,100,B.DM,200,B.EA,300,B.C9,400,B.Db,500,B.DG,600,B.DY,700,B.D2,800,B.DU,900,B.Cp],t.r)
 B.Ml=new A.fi(B.M4,1,1,0.596078431372549,0,B.e)
-B.Oz=new A.fl("\ud83c\udf26\ufe0f","Minimal Weather App","A beautiful weather app with real-time data and forecasts.","This weather app provides up-to-the-minute weather information with a focus on a clean, minimalist design. It features daily and hourly forecasts, animated weather icons, and data sourced from a reliable weather API. The UI changes dynamically based on the current weather conditions.",B.Jg,B.J9,"https://github.com/bilvste/Ultimate-Weather-App",B.Ml)
+B.Ow=new A.fl("\ud83c\udf26\ufe0f","Minimal Weather App","A beautiful weather app with real-time data and forecasts.","This weather app provides up-to-the-minute weather information with a focus on a clean, minimalist design. It features daily and hourly forecasts, animated weather icons, and data sourced from a reliable weather API. The UI changes dynamically based on the current weather conditions.",B.Je,B.K6,"https://github.com/bilvste/Ultimate-Weather-App",B.Ml)
+B.IW=s(["Flutter","REST API","Clean Architecture","Bloc"],t.s)
+B.JU=s(["assets/images/pos/pos1.png","assets/images/pos/pos2.png","assets/images/pos/pos3.png","assets/images/pos/pos4.png","assets/images/pos/pos5.png","assets/images/pos/pos6.png","assets/images/pos/pos7.png","assets/images/pos/pos8.png"],t.s)
+B.D6=new A.j(1,0.5098039215686274,0.6941176470588235,1,B.e)
+B.CW=new A.j(1,0.26666666666666666,0.5411764705882353,1,B.e)
+B.Cl=new A.j(1,0.1607843137254902,0.4745098039215686,1,B.e)
+B.Ee=new A.j(1,0.1607843137254902,0.3843137254901961,1,B.e)
+B.LR=new A.bI([100,B.D6,200,B.CW,400,B.Cl,700,B.Ee],t.r)
+B.Mh=new A.lO(B.LR,1,0.26666666666666666,0.5411764705882353,1,B.e)
+B.Ox=new A.fl("\ufe0f\ud83d\udcb5","POS Application","A cross-platform Point of Sale (POS) application built with Flutter and Firebase, fully developed in Dart.","The app helps businesses manage sales, products, inventory, and transactions efficiently through a clean and user-friendly interface.",B.IW,B.JU,"https://github.com/indoo24/Saloonsa-POS",B.Mh)
+B.IY=s(["Flutter","Provider","Assets","API"],t.s)
+B.Kb=s(["assets/images/islami/islami.png","assets/images/islami/islami1.png","assets/images/islami/islami2.png","assets/images/islami/islami3.png","assets/images/islami/islami4.png","assets/images/islami/islami5.png"],t.s)
+B.Oy=new A.fl("\ud83d\udd4c","Islami App","An all-in-one Islamic application for daily needs.","A comprehensive Islamic application featuring Quran, Hadith, prayer times based on location, a Qibla compass, and a Tasbih counter. The app is designed to be a daily companion for Muslims, with a focus on simplicity and accuracy.",B.IY,B.Kb,"https://github.com/indoo24/islami-app",B.ml)
+B.Ka=s(["Flutter","Firebase","TensorFlow Lite"],t.s)
+B.J6=s(["assets/images/todo/todo8.png","assets/images/todo/todo9.png","assets/images/todo/todo1.png","assets/images/todo/todo2.png","assets/images/todo/todo3.png","assets/images/todo/todo4.png","assets/images/todo/todo5.png","assets/images/todo/todo6.png","assets/images/todo/todo7.png"],t.s)
+B.Oz=new A.fl("\ud83e\udd16","Intelligent To-Do","A smart to-do app that organizes your tasks using AI.","This isn't just a regular to-do list. By integrating a lightweight AI model, the app can automatically categorize tasks, suggest deadlines, and prioritize what's most important based on your habits. It's designed to reduce the mental load of planning.",B.Ka,B.J6,"https://github.com/indoo24/Intelligent_Todo_app",B.cP)
 B.OA=new A.yT(null,null,null,null,null,null,null)
 B.xH=new A.av(1,1)
 B.dE=new A.av(2,2)
@@ -86056,8 +86056,8 @@ B.xL=new A.rZ(2,"bubble")
 B.Pd=new A.ia(null,null)
 B.Gg=new A.nH(1,B.el,B.mE,null)
 B.Gf=new A.nH(1,B.el,B.mD,null)
-B.J7=s([B.Gg,B.yE,B.Gf],t.p)
-B.Pe=new A.p2(B.aq,B.M,B.T,B.aN,null,B.b7,null,0,B.J7,null)
+B.J5=s([B.Gg,B.yE,B.Gf],t.p)
+B.Pe=new A.p2(B.aq,B.M,B.T,B.aN,null,B.b7,null,0,B.J5,null)
 B.Ph=new A.zs(1333)
 B.kg=new A.zs(2222)
 B.Pi=new A.KZ(null,null)
@@ -86176,9 +86176,9 @@ B.yc=new A.e2([B.af,B.aI,B.bJ,B.aR,B.b3],t.Lu)
 B.DN=new A.j(0.23529411764705882,0,0,0,B.e)
 B.N2=new A.i(0,4)
 B.As=new A.d7(0.5,B.cy,B.DN,B.N2,10)
-B.Jz=s([B.As],t.sq)
+B.Jw=s([B.As],t.sq)
 B.Pc=new A.jc(B.lF,B.r)
-B.Qa=new A.ie(null,null,null,B.Jz,B.Pc)
+B.Qa=new A.ie(null,null,null,B.Jw,B.Pc)
 B.yd=new A.a5(B.jK,!1,!1,!1,!0,B.m)
 B.Qb=new A.a5(B.nT,!0,!1,!1,!1,B.m)
 B.aW=new A.y4(1,"locked")
@@ -87096,7 +87096,7 @@ return A.c([A.c([0.41233895,0.35762064,0.18051042],s),A.c([0.2126,0.7152,0.0722]
 $.qA=A.c([95.047,100,108.883],t.n)
 $.axq=null
 $.anc=null
-$.ayG=A.c([B.Ow,B.Ot,B.Os,B.Ov,B.Oz,B.Ox,B.Ou,B.Oy],A.an("x<fl>"))
+$.ayG=A.c([B.Ox,B.Ov,B.Oz,B.Ou,B.Ow,B.Ot,B.Os,B.Oy],A.an("x<fl>"))
 $.abw=null
 $.aEM=A.t(t.S,A.an("aOl"))
 $.auw=null
@@ -87147,7 +87147,7 @@ return A.c([A.y(A.y(A.aa(),q),"Baseline"),A.y(A.y(A.aa(),q),"AboveBaseline"),A.y
 r($,"aRy","aB9",()=>A.d5().gS6()+"roboto/v32/KFOmCnqEu92Fr1Me4GZLCzYlKw.woff2")
 r($,"aQW","aAI",()=>A.aJL(A.uQ(A.uQ(A.jB(),"window"),"FinalizationRegistry"),A.jx(new A.ang())))
 r($,"aSg","aBB",()=>new A.a6T())
-s($,"aR1","aAL",()=>A.aFk(B.Jh))
+s($,"aR1","aAL",()=>A.aFk(B.Jf))
 s($,"aR0","aoQ",()=>A.a3x(A.aCw($.aAL())))
 s($,"aQO","aAE",()=>A.avA(A.y(A.aa(),"ParagraphBuilder")))
 s($,"aSm","aBE",()=>{var q=t.N,p=A.an("+breaks,graphemes,words(tD,tD,tD)"),o=A.aq_(1e5,q,p),n=A.aq_(1e4,q,p)
